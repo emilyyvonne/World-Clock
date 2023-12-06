@@ -54,7 +54,8 @@ function getCityData(event) {
       <div class="date">${cityDateData}</div>
     </div>
     <div class="time">${cityTimeData} </div>
-  </div>
+  </div> 
+  <a href ="/"> Return to previous cities </a>
   `;
 }
 
